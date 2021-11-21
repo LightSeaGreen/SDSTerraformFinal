@@ -1,0 +1,7 @@
+/.terraform
+/.terraform.lock.hcl
+/1.tfplan
+/deployer-key.pem
+/id_rsa.pub
+/terraform.tfstate
+/terraform.tfstate.backup

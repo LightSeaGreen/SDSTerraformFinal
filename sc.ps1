@@ -1,0 +1,1 @@
+echo "New-Alias -Name tt -Value terraform"
